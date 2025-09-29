@@ -24,6 +24,6 @@ app.get("/home", (req, res) => {
 });
 
 // Start the server and listen on port 3333
-app.listen(3333, () => {
-    console.log(`Listening at http://localhost:3333`);
+app.listen(8080, () => {
+    console.log(`Listening at http://localhost:8080`);
 });
