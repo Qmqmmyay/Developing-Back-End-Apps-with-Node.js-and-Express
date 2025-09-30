@@ -1,0 +1,14 @@
+{
+  "name": "weather-app",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
